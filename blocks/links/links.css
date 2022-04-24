@@ -1,0 +1,11 @@
+.links {
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+
+.links:hover {
+  opacity: 0.8;
+}
