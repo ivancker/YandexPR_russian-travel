@@ -1,6 +1,3 @@
 .place__website {
-  grid-column: 3/2;
-  grid-row: 2/1;
-  align-self: end;
-  justify-self: start;
+
 }
