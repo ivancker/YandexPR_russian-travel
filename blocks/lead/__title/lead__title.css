@@ -2,15 +2,16 @@
 font-style: normal;
 font-weight: 900;
 font-size: 96px;
-line-height: 100px;
+line-height: 1.04;
 text-align: center;
 max-width: 720px;
 margin: auto;
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 720px) {
   .lead__title {
+    max-width: 500px;
     font-size: 40px;
-    line-height: 44px;
+    line-height: 1.1;
   }
 }
