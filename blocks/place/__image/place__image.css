@@ -1,3 +1,22 @@
 .place__image {
+  max-width: 460px;
+}
 
+@media screen and (max-width: 1100px) {
+  .place__image {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .place__image {
+    max-width: 320px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .place__image {
+    max-width: 100%;
+
+  }
 }
